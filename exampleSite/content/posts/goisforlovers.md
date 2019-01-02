@@ -70,6 +70,8 @@ template is passed either a page or a node struct depending on which type of
 page you are rendering. More details are available on the
 [variables](/layout/variables) page.
 
+    {{Hier steht der Bibelcode}}
+
 A variable is accessed by referencing the variable name.
 
     <title>{{ .Title }}</title>
